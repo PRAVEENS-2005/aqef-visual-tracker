@@ -1,5 +1,7 @@
 # AQEF — Adaptive Quad-Sensor Energy Field Tracker
 
+Licensed under the GNU GPLv3. See the LICENSE file for details.
+
 > *Most trackers follow a target. AQEF hunts it back.*
 
 A novel single-object tracker built from first principles — combining four independent sensing modalities into one real-time arbitration system. Recovers from **complete target loss** where standard OpenCV trackers fail permanently.
